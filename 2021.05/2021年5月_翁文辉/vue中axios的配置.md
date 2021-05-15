@@ -1,4 +1,13 @@
-## vue-cli Axios发环境设置
+---
+layout:      post
+title:      "vue-cli Axios发环境设置"
+date:       2021-04-15
+author:     "翁文辉"
+catalog:     true
+tags:
+     - Vue
+     - axios
+---
 
 - axios介绍
   - axios是一个http库，可在vue中使用
@@ -30,7 +39,6 @@
   
   - 例： ![](images/example.png)
   
-
 - 设置代理
 
   - 在前后端分离开发时，本地开发会遇到跨域拦截，可在vue中设置代理解决，由于不同版本的设置方法不同，此处介绍vue-cli2的设置方法

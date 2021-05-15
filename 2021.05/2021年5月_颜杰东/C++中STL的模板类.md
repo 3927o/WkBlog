@@ -1,4 +1,12 @@
-# C++中STL的模板类
+---
+layout:      post
+title:      "C++中STL的模板类"
+date:       2021-05-15
+author:     "颜杰东"
+catalog:     true
+tags:
+     - STL
+---
 
 ## 一、Vector
 
